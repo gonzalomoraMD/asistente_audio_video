@@ -60,7 +60,7 @@ python main.py
 
 ## Autor
 
-Desarrollado por [Tu Nombre].
+Desarrollado por GONZALO MORA.
 
 ## Licencia
 
