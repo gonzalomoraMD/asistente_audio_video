@@ -41,7 +41,7 @@ DEFAULT_LANGUAGE=es
 Para ejecutar el asistente, simplemente ejecuta:
 
 ```bash
-python main.py
+python main_new.py
 ```
 
 ### Controles
